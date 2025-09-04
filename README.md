@@ -26,6 +26,6 @@
 
 <h2>⚡️ Where to find me</h2>
 <p>
-  <a target="_blank" href="[https://www.linkedin.com/in/Kirtan Patel](https://www.linkedin.com/in/kirtan-patel-988218301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/kirtan-patel-988218301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
  
 </p>
