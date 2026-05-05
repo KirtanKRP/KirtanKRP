@@ -13,7 +13,6 @@
   <li>🏆 <b>3rd Place, Gujarat State Level:</b> IBM AI Innovation Challenge (Showcased a prototype of a sovereign 3-layer mesh protocol).</li>
   <li>💻 <b>Core Developer:</b> Experienced in building complex platforms like digital audio workstations using Spring Boot and Next.js, and decentralized mesh networks (TRL-5 validated).</li>
   <li>🎨 <b>Design Team Head:</b> Leading community branding, digital storytelling, and UI/UX design for <i>Code Vimarsh</i>.</li>
-  <li>⛰️ Beyond coding, I'm an avid high-altitude Himalayan trekker and a multi-instrumentalist (tabla, guitar, flute, and vocals).</li>
 </ul>
 
 <h2>🛠️ Languages and Tools I Use</h2>
